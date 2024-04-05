@@ -1,2 +1,3 @@
-# LearnOpenGL
-Learn OpenGL 学习OpenGL
+# Learn OpenGL
+
+学习OpenGL
